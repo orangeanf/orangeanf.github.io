@@ -20,3 +20,14 @@
     background-color:greenyellow;
     color:white;
 }
+
+. image{
+    margin:15px;
+    border:dotted;
+    border-width:10px;
+    border-color:crimson;
+    padding:15px;
+    position:sticky;
+    top:15%;
+    left:30%;
+}
